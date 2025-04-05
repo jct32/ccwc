@@ -1,0 +1,10 @@
+/build/
+/CMakeFiles/
+/CmakeCache.txt
+/Makefile
+/install_manifest.txt
+/*.cmake
+/*.dir
+
+*.swp
+*.tmp
